@@ -1,0 +1,9 @@
+date,category,description,amount,type
+2025-11-22,Salary,Part-time,3000.0,Income
+2025-11-22,Food,Chinese,250.0,Expense
+2025-11-22,Transport,Cab,100.0,Expense
+
+2025-11-26,Shopping,Clothes,1000.0,Expense
+2025-11-26,Internship,Microsoft,5000.0,Income
+2025-11-26,Food,Italian,2500.0,Expense
+2025-11-26,FOOD,CHINESE,500.0,Expense
